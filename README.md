@@ -94,3 +94,12 @@ npm run dev
 ### Development Mode
 ```bash
 npm run dev
+```
+## 🎥 Demo Video
+
+<p align="center">
+  <a href="https://youtu.be/yds_HUME7W0" target="_blank">
+    <img src="https://img.youtube.com/vi/yds_HUME7W0/maxresdefault.jpg" alt="Watch the Demo" width="700" />
+  </a>
+</p>
+
