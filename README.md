@@ -94,10 +94,3 @@ npm run dev
 ### Development Mode
 ```bash
 npm run dev
-
-
-
-
-
-
-
